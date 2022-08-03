@@ -48,7 +48,7 @@
 | Kidney biopsy                  | ICD9Proc, CPT4, ICD10PCS, SNOMED, NAACCR, MedDRA, OPCS4, Read, OXMIS and CIEL procedure codes for kidney biopsy | [kidney_biopsy_proc.csv](https://github.com/PEDSnet/skeletal_outcomes/blob/main/codesets/procedure/kidney_biopsy_proc.csv)         |
 | Dialysis                       | CPT4 procedure codes for dialysis                                                                                | [kidney_dialysis.csv](https://github.com/PEDSnet/skeletal_outcomes/blob/main/codesets/procedure/kidney_dialysis.csv)               |
 | Kidney transplant              | ICD10PCS, MedDRA, CPT4, ICD9Proc and OPCS4 procedure codes for kidney transplant                                 | [kidney_transplant_proc.csv](https://github.com/PEDSnet/skeletal_outcomes/blob/main/codesets/procedure/kidney_transplant_proc.csv) |
-| Fracture-associated procedures | ICD10PCS, ICD9Proc, CPT4 and HCPCS procedures codes for x-ray, casting, and splinting procedures                 | [xray_proc_codes.csv](https://github.com/PEDSnet/skeletal_outcomes/blob/main/codesets/procedure/xray_proc_codes.csv)               |
+| Fracture-associated procedures | ICD10PCS, ICD9Proc, CPT4 and HCPCS procedures codes for x-ray, casting, and splinting procedures                 | [fracture_proc_codes.csv](https://github.com/PEDSnet/skeletal_outcomes/blob/main/codesets/procedure/fracture_proc_codes.csv)               |
 
 ## Other
 
